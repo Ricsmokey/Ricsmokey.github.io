@@ -1,10 +1,9 @@
-# How to Add a New Case Study
+# How I Add a New Case Study
 
-1. Open the Claude Project for this portfolio (has my voice, stack, and identity kit already loaded).
-2. Give it the raw material: the problem, what I did, what came of it (three-beat shape).
-3. Ask it to draft the case study page matching the existing format/tone.
-4. Save the new file in /case-studies/, link it from index.html.
-5. Commit and push — site updates automatically.
+When I finish something worth adding, I open my Claude Project (it already knows my background, my stack, and how I write). I just tell it what the problem was, what I did about it, and what came of it. It drafts the write-up in the same style as what's already on the site, and I paste it into index.html above the "coming soon" note, then push.
 
-## Next case study planned:
-FlyRank Internship Certificate — add once available.
+## Case studies on the site:
+- Task API — CRUD REST API (FastAPI, Docker, PostgreSQL) — added Aug 2026
+
+## Next up:
+FlyRank Internship Certificate — will add once it's issued.
